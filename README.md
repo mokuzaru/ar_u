@@ -5,7 +5,7 @@ This is the repository for the workshop about unity, ar and vr.
 
 Getting start with Unity3d. Basic scene, manage or jump between scenes and standar button canvas.
 
-[Download the sample proyect]()
+[Download the sample proyect](/Unity_samples/class1.unitypackage)
 
 This sample consist on 2 scenes: the first on has one button and one object. When clic the button change the color of the sphere but at the third clic jump to the second scene.
 
